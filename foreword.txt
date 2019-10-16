@@ -1,0 +1,1 @@
+This book is dedicated to everyone who is interested in git. Have fun working on it!
